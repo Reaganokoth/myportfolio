@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Ronald Reagan Okoth
     tagline: Marine Ecologyst * Spatial Data Scientist
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Resume_picture_reshaped.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rk.okoth@gmail.com
@@ -23,7 +23,7 @@ sidebar:
     stack-overflow: 
     codewars:
     goodreads: 
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://www.africau.edu/images/default/sample.pdf #give the link to the pdf file here
 
     languages:
       - idiom: English
@@ -62,28 +62,28 @@ education:
       university: Würzburg University Germany
       time: 2020 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        This master's program is in part based on the exploration of various
+        programming languages to process and analyze Earth Observation data. During
+        this study, I have implemented various projects that directly involved
+        manipulation and processing of EO data using the most contemporary
+        platforms. In the most recent project, I modelled drought induced loss in
+        agricultural production in Kenya based on freely available satellite data
+        (MODIS, CHIRPS). I was able to accurately predict major drought years in
+        Kenya. This work was performed both on Google Earth Engine (GEE) and in R.
+        On another project, I quantified drought impact on European Forests
+        following the 2018 heatwave. Here I mapped dead trees from Planet Data
+        using Python.
+        
     - degree: MSc Marine and Lacustrine Science and Management (Oceans & Lakes)
-      university: Vrije Universität Brussels | Ghent University | Antwerpen University
-      time: 2007 - 2011
+      university: Vrije Universiteit Brussels | Ghent University | Antwerpen University
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I had a year of research and development where I worked with Ph.D. students and my professor for my master's thesis. My work focused on finding patterns of dune resilience and stability in relation to tidal regimes, urbanization, and country. Here, I wrote codes to classify multiple satellite images from multiple timestamps into different landcover classes then extracted relevant vegetation data.
+          
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Mangrove Allometry Consultant
+      time: February 2022 - March 2022
+      company: Kumi Analytics
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,28 +96,20 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Intern
+      time: August 2020 - December 2021
+      company: Alfred Wegener Institute, Potsdam, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        I created vegetation classification across Lena delta from both Sentinel and
+        Landsat images, and investigate potential inter annual dynamics and trends
+        (spatial) as well as the intra-class variation in vegetation phenology
+        using Google Earth Engine and Jupyter notebook platforms.
+          
+    - role: Intern
+      time: July 2019 — December 2019
+      company: VITO, Mol, Belgium
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I created image annotations that was used for as training imput for an object oriented Deep Learning model to classify palm , apple and pear trees from UAV data.
 projects:
     title: Projects
     intro: >
