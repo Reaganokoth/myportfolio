@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ronald Reagan Okoth
-    tagline: Marine Ecologyst * Spatial Data Scientist
+    tagline: Marine Ecologist * Spatial Data Scientist
     avatar: Resume_picture_reshaped.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -77,9 +77,7 @@ experiences:
       time: February 2022 - March 2022
       company: Kumi Analytics
       details: |
-        Advised on Decided on species specific equations to be used to derive ground truth above ground mangrove biomass based on literature research.
-        Implementing above ground biomass (AGB) algorithms from literature and evaluate suitability in python
-        Automated AGB derivation.
+        Advised on species specific equations to be used to derive ground truth above ground mangrove biomass based on literature research. I also automated the implemention of above ground biomass (AGB) algorithms from literature and evaluated their suitability in python.
 
           - Bullet point
     - role: Intern
@@ -94,11 +92,9 @@ experiences:
       details: |
         I created image annotations that was used for as training imput for an object oriented Deep Learning model to classify palm , apple and pear trees from UAV data.
 projects:
-    title: Web Scrapping
+    title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Away from school projects, I have also implemented various web-scrapping python programmes just for my own use.
     assignments:
       - title: Fuel Price Monitor
         link: "#hook"
