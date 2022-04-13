@@ -79,7 +79,6 @@ experiences:
       details: |
         Advised on species specific equations to be used to derive ground truth above ground mangrove biomass based on literature research. I also automated the implemention of above ground biomass (AGB) algorithms from literature and evaluated their suitability in python.
 
-          - Bullet point
     - role: Intern
       time: August 2020 - December 2021
       company: Alfred Wegener Institute, Potsdam, Germany
@@ -103,10 +102,6 @@ projects:
       - title: Discounted Products Crawler
         link: "#"
         tagline: "Another web crawler collects data on discounted items from major online stores for specific items and recommends from which store to purchase."
-
-publications:
-    title:
-    papers:
 
 skills:
     title: Skills &amp; Proficiency
