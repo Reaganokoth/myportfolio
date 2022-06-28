@@ -85,17 +85,17 @@ education:
       time: 2012 - 2016
       details: |
         For my undergraduate research, I assessed the amount of organic carbon stored in the sediment of different seagrass species in Gazi Bay in Kenya.
-        
-          
+    
+
 experiences:
+    
     - role: Student Research Assistant
       time: May 2022 - Present
       company: Helmholtz Centre for Environmental Research (UFZ) Remote Sensing Department - Leipzig
       details: |
         
         I work within the Terrestrial Water Dynamics (TWD) research group. The group aims to quantify terrestrial water cycle dynamics from the integration of multi-source Earth observations and modelling framework across scales. My role within the team is to source for relevant remote sensing products and develop data pipelines for batch processing of large datasets. I have developed both, python and bash scripts, to automate data download and preprocessing (subsetting global datasets into multiple small tiles and indexing specific variables of interest). I have gained key experience excecuting scripts remotely on a linux server and also working with cluster managment systems like SLURM.
-
-experiences:
+    
     - role: Mangrove Allometry Consultant
       time: February 2022 - March 2022
       company: Kumi Analytics
