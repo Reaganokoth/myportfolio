@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -29,11 +29,17 @@ sidebar:
       - idiom: English
         level: Professional
 
+      - idiom: German
+        level: Intermediate
+
       - idiom: Kiswahili
         level: Native
-
+      
       - idiom: Luo
         level: Native
+      
+      - idiom: Turkish
+        level: Beginer
 
     interests:
       - item: Biking
@@ -71,25 +77,44 @@ education:
       time: 2018 - 2020
       details: |
         I had a year of research and development where I worked with Ph.D. students and my professor for my master's thesis. My work focused on finding patterns of dune resilience and stability in relation to tidal regimes, urbanization, and country. Here, I wrote codes to classify multiple satellite images from multiple timestamps into different landcover classes then extracted relevant vegetation data.
+        
+        
+        
+    - degree: BSc Coastal and Marine Resource Managenent
+      university: Kenyatta University
+      time: 2012 - 2016
+      details: |
+        For my undergraduate research, I assessed the amount of organic carbon stored in the sediment of different seagrass species in Gazi Bay in Kenya.
+        
           
+experiences:
+    - role: Student Research Assistant
+      time: May 2022 - Present
+      company: Helmholtz Centre for Environmental Research (UFZ) Remote Sensing Department - Leipzig
+      details: |
+        
+        I work within the Terrestrial Water Dynamics (TWD) research group. The group aims to quantify terrestrial water cycle dynamics from the integration of multi-source Earth observations and modelling framework across scales. My role within the team is to source for relevant remote sensing products and develop data pipelines for batch processing of large datasets. I have developed both, python and bash scripts, to automate data download and preprocessing (subsetting global datasets into multiple small tiles and indexing specific variables of interest). I have gained key experience excecuting scripts remotely on a linux server and also working with cluster managment systems like SLURM.
+
 experiences:
     - role: Mangrove Allometry Consultant
       time: February 2022 - March 2022
       company: Kumi Analytics
       details: |
-        Advised on species specific equations to be used to derive ground truth above ground mangrove biomass based on literature research. I also automated the implemention of above ground biomass (AGB) algorithms from literature and evaluated their suitability in python.
+        Advised on species specific allometric equations to be used to derive above ground mangrove biomass based on literature research. I also automated the implemention of above ground biomass (AGB) algorithms from literature and evaluated their suitability in python.
 
     - role: Intern
       time: August 2020 - December 2021
       company: Alfred Wegener Institute, Potsdam, Germany
       details: |
+        
         I created vegetation classification across Lena delta from both Sentinel and Landsat images, and investigate potential inter annual dynamics and trends (spatial) as well as the intra-class variation in vegetation phenology using Google Earth Engine and Jupyter notebook platforms.
           
     - role: Intern
       time: July 2019 — December 2019
       company: VITO, Mol, Belgium
       details: |
-        I created image annotations that was used for as training imput for an object oriented Deep Learning model to classify palm , apple and pear trees from UAV data.
+        
+        I annotated drone images to create training data for a Deep Learning model developed to detect palm, apple, and pear trees from remote sensing data.
 projects:
     title: Projects
     intro: >
@@ -113,17 +138,14 @@ skills:
       - name: R
         level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 40%
+      - name: bash
+        level: 60%
 
       - name: QGIS
         level: 70%
 
       - name: Git
-        level: 50%
+        level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
