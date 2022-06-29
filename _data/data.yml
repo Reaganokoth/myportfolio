@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Reagan Okoth
-    tagline: Marine Ecologist * Spatial Data Scientist
+    tagline: Spatial Data Scientist * Marine Ecologist * Remote Sensing
     avatar: Resume_picture_reshaped.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rk.okoth@gmail.com
-    phone: +4915906146698
+    phone: '+4915906146698'
     citizenship: Kenyan
     linkedin: Reagan Okoth
     github: Reaganokoth
@@ -102,14 +102,21 @@ experiences:
       details: |
         Advised on species specific allometric equations to be used to derive above ground mangrove biomass based on literature research. I also automated the implemention of above ground biomass (AGB) algorithms from literature and evaluated their suitability in python.
 
-    - role: Intern
+    - role:Internship
+      time: January 2022 - March 2022
+      company: German Aerospace Centre (DLR)
+      details: |
+        
+        I worked with team Coast and River Basin withing the framework of Locust Tec project while at DLR. Here, I wrote a python script to automate download of FAO monthly locust report from their archives. The script can also automatically extract information such as the total amount of areas per country that was treated with pesticides and approximate geolocation of where the treatments happened from the pdf documents.
+    
+    - role:Student Research Assistant
       time: August 2020 - December 2021
       company: Alfred Wegener Institute, Potsdam, Germany
       details: |
         
         I created vegetation classification across Lena delta from both Sentinel and Landsat images, and investigate potential inter annual dynamics and trends (spatial) as well as the intra-class variation in vegetation phenology using Google Earth Engine and Jupyter notebook platforms.
           
-    - role: Intern
+    - role: Internship
       time: July 2019 — December 2019
       company: VITO, Mol, Belgium
       details: |
