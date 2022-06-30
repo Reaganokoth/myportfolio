@@ -93,7 +93,6 @@ experiences:
       time: May 2022 - Present
       company: Helmholtz Centre for Environmental Research (UFZ) Remote Sensing Department - Leipzig
       details: |
-        
         I work within the Terrestrial Water Dynamics (TWD) research group. The group aims to quantify terrestrial water cycle dynamics from the integration of multi-source Earth observations and modelling framework across scales. My role within the team is to source for relevant remote sensing products and develop data pipelines for batch processing of large datasets. I have developed both, python and bash scripts, to automate data download and preprocessing (subsetting global datasets into multiple small tiles and indexing specific variables of interest). I have gained key experience excecuting scripts remotely on a linux server and also working with cluster managment systems like SLURM.
     
     - role: Mangrove Allometry Consultant
@@ -106,7 +105,6 @@ experiences:
       time: January 2022 - March 2022
       company: German Aerospace Centre (DLR)
       details: |
-        
         I worked with team Coast and River Basin withing the framework of Locust Tec project while at DLR. Here, I wrote a python script to automate download of FAO monthly locust report from their archives. The script can also automatically extract information such as the total amount of areas per country that was treated with pesticides and approximate geolocation of where the treatments happened from the pdf documents.
     
     - role:Student Research Assistant
@@ -120,7 +118,6 @@ experiences:
       time: July 2019 — December 2019
       company: VITO, Mol, Belgium
       details: |
-        
         I annotated drone images to create training data for a Deep Learning model developed to detect palm, apple, and pear trees from remote sensing data.
 projects:
     title: Projects
